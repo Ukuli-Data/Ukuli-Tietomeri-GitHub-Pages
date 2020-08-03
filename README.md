@@ -1,2 +1,2 @@
-# Ukuli-Tietomeri-GitHub-Pages
+# Tietomeri
 GitHub pages for Tietomeri.
